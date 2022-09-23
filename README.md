@@ -1,6 +1,6 @@
 Hello! I'm Matthew
 
-I'm a 9th grader at Stuyvesant High School
+I'm a 10th grader at Stuyvesant High School
 
 
 USACO Silver
