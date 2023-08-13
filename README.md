@@ -1,6 +1,6 @@
 Hello! I'm Matthew
 
-I'm a 10th grader at Stuyvesant High School
+I'm a 11th grader at Stuyvesant High School
 
 
 USACO Silver
@@ -14,4 +14,4 @@ CodeForces: MatthewC3297
 
 AtCoder: MatthewC3297
 
-Java
+C++, Java
