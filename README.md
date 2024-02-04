@@ -3,7 +3,7 @@ Hello! I'm Matthew
 I'm a 11th grader at Stuyvesant High School
 
 
-USACO Silver
+USACO Gold
 
 
 Email: matthewchen196@gmail.com
